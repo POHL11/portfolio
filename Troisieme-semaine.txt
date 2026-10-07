@@ -1,0 +1,36 @@
+1 Juin 2026 :
+- vérification de plusieurs AvantdeCliquer (aucun hameçonnage).
+- finalisation d'un changement de platine et envoie.
+- appelle d'un ATC car il n'arrivait plus à ce connecter à son compte Microsoft pour regarder une vidéo de vente de produit donc changement de mot de passe.
+- livraison des colis.
+- J'ai trafiqué un PC portable car une personne avait des touches d'effacées donc j'a changé le ssd avec un autre et sa batterie. Un problème est survenu "BitLocker" donc j'ai du chercher le nom du PC pour ensuite aller chercher dans MEDC l'accès pour déverrouiller le PC. Maintenant, tout fonctionne correctement.
+- bonus: petite blague : une personne dans l'entreprise pour éteindre les lumières du magasin le soir, il coupait directement au disjoncteur ou le compteur. Donc le magasin n'avait plus aucune sécurité d'alarme. 
+
+2 Juin 2026 : 
+- J'ai été sur la boucle de 8h à 10h : j'ai fait de mon mieux pour résoudre les soucis des utilisateurs tel que les réinitialisation des mot de passe Microsoft, faire les mises à jour de certains logiciels qui sont obligé d'être fait en tant que administrateur.
+- livraison d'un télévision et d'un poste de travail au Monnée 2 le grand bâtiment en face du site.
+- transfère de données d'un poste à un autre.
+- mise à jour des actifs, en stock de certains PC dans glpi.
+- envoie des colis.
+
+3 Juin 2026 :
+- réception d'un PC portable qui devait avoir un problème de touche CRTL mais après vérification il n'y a pas de soucis à ce niveau. Le seul souci trouvé est le fait que l'utilisateur ne faisait pas ses mises à jours Windows. Ce qui selon moi est la cause de son problème car je suppose qu'elle utilise un clavier externe et c'est lui le problème.
+- création de 2 boitiers 4g pour une agence qui n'aura plus de réseaux pendant 2 jours.
+- configuration d' un téléphone 
+- relance pour les changements de platine car deux personnes m'ont répondu en deux semaines sur sept personnes.
+- aide sur site pour un problème d'écran (le câble à un petit soucis mais en soufflant dedans tout est redevenu à la normale).
+- réparation d'une imprimante.
+
+4 Juin 2026 :
+- re vérification d'un pc portable pour le ctrl+c/ctrl+v
+- remplacement d'une platine + ajouter à glpi + mettre le PC fixe dans le bon UO dans l'ad.
+- j'ai changé le pc portable d'une personne car il n'identifiait plus le wifi et le pavé tactile ne fonctionnait plus aussi. plus transfère des données.
+- livraison des colis plus d'une heure il y en avait énormément de plus la machine pour fermer les colis a cassé avant que je ferme mes colis donc j'ai du le faire à la main, ce qui prends plus de temps.
+
+5 Juin 2026 : 
+- installation complète d'un poste avec 2 écran. problème il n'a pas de connexion Ethernet.
+- tableau d'une baie informatique avec les prises et les ports d'arrivé.
+- configuration d'un poste pour le remplacement d'une platine + envoie de la procédure.
+- j'ai remis aussi un pc portable dans le domaine.
+- changement d'un mot de passe Windows qui débloque aussi d'autres applications ( gesweb et portail foussier) 
+- tri des produits dans le bureau ( imprimante Hors Service, toner neuf donc il faut les remettre dans le réapprovisionnement. 

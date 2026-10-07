@@ -1,0 +1,21 @@
+Lundi 25 Mai 2026 :
+- Jour férié
+
+Mardi 26 Mai 2026 :
+- plusieurs contrôles de mails qui peuvent être frauduleux.
+- changement de pc pour un ATC + carte SIM et lui transférer ses données dans le nouveau PC.
+- Alexis m'a chargé de faire 10 PC fixes pour le remplacement des platines dans les magasins pendant les 4 semaines restante + essayer de faire une procédure.
+
+Mercredi 27 Mai 2026 :
+- préparation d'un câble de recharge pour téléphone
+- changement de pc pour une RM donc office + mise dans la bonne agence dans l'ad.
+- changement de mot de passe directement dans l'ad pour une personne directement sur site.
+- j'ai envoyé 3 mails pour les changements des platines une seule personne m'a répondu donc je vais commencer à lui préparer son pc et aussi faire la procédure pour qu'il puisse mettre ses données quelque part pour ne pas les perdre.
+- on m'a demandé d'aller sur la boucle demain, donc il me fallait TeamViewer et Keepass pour aider les utilisateurs.
+- finalisation du pc pour le changement des platines.
+
+Jeudi 28 Mai 2026: 
+- envoie de colis.
+- finalisation du PC fixe pour le changement de la platine.
+- création d'une procédure de A à Z (Procédure transfère des données vers le PC fixe.pdf)
+- clôture de plusieurs tickets.

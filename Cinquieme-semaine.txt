@@ -1,0 +1,38 @@
+Lundi 15 Juin 2026 :
+ - rangement du stock ( on a reçu des nouveaux écrans je dirais 30 donc il faut réussir à les stocker correctement)
+ - rangement d'une pièce pour pouvoir mettre un copieur.
+ - envoie de mail pour remplacement de platines ( 1 réponse je ne l'ai pas fait aujourd'hui mais demain à la première heure)
+ - j'ai été sur la boucle : plusieurs soucis de réseaux ,il fallait juste redémarrer, et problème de Bluetooth.
+ - on a trafiqué des pc portable pour trouver de la RAM dans les pc pour pièces. et des ssd qui ne sont pas BitLocker parce qu'on ne peut plus trouver la clé et on a pas d'adaptateur.
+ - création de 4 personnes dans MEDC mais il fallait les créer aussi dans l'AD avant.
+
+Mardi 16 Juin 2026 : 
+ - rangement des électro-ménagers HS + le stock.
+ - j'ai fait une imprimante pour Ajaccio donc il faut créer l'imprimante dans CUPS + dans le serveur d'impression.
+ - création de 4 tels + la mise en place des carte SIM que j'ai du faire dans Bouygues. 
+ - remplacement platine pour PAU.
+ - remplacement d'un PC portable il faut que je lui explique comme mettre la carte SIM à l'intérieur.
+
+Mercredi 17 Juin 2026 :
+
+ - remplacement d'une imprimante donc une configuration et mise à jour du pilote.
+ - remplacement d'un  copieur et mise à jour du pilote.
+ - remplacement d'un téléphone + faire une carte SIM pour son ordinateur portable.
+ - remplacement d'une platine + GLPI + AD + libre office
+ - livraison des colis.
+  bonus : j'ai réparé la cercleuse de la logistique ( c'est moi qu'il est cassé j'étais bien obligé).
+
+Jeudi 18 Juin 2026 : 
+ - déplacement au magasin du Mans pour un soucis de 3 imprimantes + découverte de l'environnement du magasin des machines et des bureaux.
+ - remplacement de platines.
+ - envoie des colis. 
+ - réception des colis et retour 
+
+Vendredi 19 Juin 2026 : 
+ - réparation d'un galet 4g
+ - j'ai remis un PC dans le domaine.
+ - Je voulais tester de changer les toners de 2 imprimantes malheureusement il n'y en a plus en stock donc je ne pourrais pas tester pour les réparer.
+ - on est parti avec Loan dans les entrepôts pour installer teams à certaines personnes.
+ - finalisation de téléphone
+ - envoie des colis 
+ - dire au revoir à tout le monde.

@@ -1,0 +1,26 @@
+			PREMIERE SEMAINE DE STAGE:
+
+Lundi 18 Mai 2026:
+- Connaissance de l'équipe et de l'environnement de l'entreprise. 
+- De plus, changement d'une imprimante, donc configuration et envoi de celle-ci. 
+- Commencement du déploiement d'un poste de travail.
+
+Mardi 19 Mai 2026:
+- Continuité du déploiement du poste de travail. 
+- Envoi d'un écran.
+- Création du premier téléphone avec une nouvelle méthode dans MEDC.
+
+Mercredi 20 Mai 2026:
+-Livraison des colis de lundi et mardi. 
+- Première utilisation de l'ad (gestionnaire de parcs) avec le bunker, endroit virtuel où il y a les serveurs.
+- Déploiement d'un poste fixe. 
+- Changement d'une batterie d'un PC portable (bonus : le PC auquel j'ai changé la batterie était avec un Linux, c'était un test de l'entreprise).
+
+Jeudi 21 Mai 2026:
+-Configuration d'un PC portable pour un commercial + création d'un profil utilisateur directement sur son PC. 
+- Redéploiement de 2 téléphones (donc suppression dans MEDC pour pouvoir les reconfigurer).
+- Pour finir la journée, envoie des colis à la logistique vers toutes les agences.
+
+Vendredi 22 Mai 2026:
+-Vérification des AvantdeCliquer (système mis en place pour que les utilisateurs qui ont des suspicions sur des émetteurs de mail ou les liens émis par les émetteurs puissent avertir le service informatique).
+- Configuration s'un nouveau poste pour un commercial (découverte de la mise en place d'un carte SIM pour pc et sa configuration) + un téléphone.

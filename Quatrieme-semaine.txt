@@ -1,0 +1,39 @@
+Lundi 8 Juin 2026: 
+ - changement de PC fixe avec installation de Morpheus (je connaissais pas). c'est pour faire les étiquettes dans colis.
+ - problème d'une imprimante étiquette. Je voulais chercher dans le serveur des imprimantes mais elle était connecter en USB donc on a du la chercher à la main et mettre le driver directement dans le serveur.
+- envoie de 2 écrans.
+- envoie des colis.
+- rangement du stock.
+- changement d'un écran.
+- prise de connaissance d'un soucis de chemin sur le serveur de l'entreprise entre plusieurs personnes il faut que je comprenne plus le sujet.
+
+Mardi 9 Juin 2026:
+ - configuration d'un PC portable pour un changement. L'ancien PC était assez lent, de plus teams ne fonctionnait plus. Pour cette même personne réinitialisation de ces mots de passe Microsoft 365 avec double authentification.
+ - configuration d'un boitier 4G.
+ - envoie d'un écran.
+ - explication d'un chemin à des chefs d'équipes pour qu'ils puissent mettre le lien dans un Excel.
+ - envoie des colis journalier.
+
+Mercredi 10 Juin 2026 : 
+ - changement d'un dock.
+ - appelle pour un soucis de caméra. L'ordinateur (pc portable) ne perçoit pas sa propre caméra. aucune solution n'a été trouvé. La personne m'a dit qu'il tombait souvent je suppose qu'il est tombé sur la caméra.
+ - configuration d'un téléphone fixe Alcatel. Nouvelle expérience c'est très intéressant.
+ - remplacement de platine, je dois en faire trois donc ça va être long.
+ - faire un pc pour changement.
+
+Jeudi 11 Juin 2026 :
+ - configuration d'un pc portable pour scanner des colis avec une douchette.
+ - remplacement de 2 platines.
+ - test d'un écran "il surchauffe" on verra dans 1h. L'écran 
+ - remplacement d'une imprimante.
+ - un collaborateur n'avait pas reçu son ordinateur, je suis parti à sa recherche. Il y a eu un problème avec la palette destinée à son magasin. IL recevra son pc dans quelque jour en TNT.
+
+Vendredi 12 Juin 2026 :
+ - Remplacement de platines (3) 
+ - j'ai donnée des accès à une personne donc je suis allé dans le bon serveur et j'ai demandé à son supérieur si c'était que lecture ou lecture/écriture.
+ - bootage (rufus) du clé pour un Windows 11. car le pc ne voulais pas se connecter dans le domaine.
+ - réapprovisionnement du stock.
+ - j'ai clôturé plusieurs tickets après livraison des colis.
+ 
+ 
+ 

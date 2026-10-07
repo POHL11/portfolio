@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Portfolio — Accueil</title>
+<link rel="icon" href="data:,">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="topbar">
+  <div class="logo"><strong>PAUL COMPAIN</strong> — SISR</div>
+  <nav class="navlinks">
+    <a href="#accueil" data-nav="accueil">Accueil</a>
+    <a href="#ap" data-nav="ap">APs</a>
+    <a href="#stages" data-nav="stages">Stages</a>
+    <a href="#veille" data-nav="veille">Veille techno</a>
+    <a href="#cv" data-nav="cv">CV</a>
+  </nav>
+</div>
+<main>
+
+<section class="page" id="p-accueil" data-page="accueil" data-title="Portfolio — Accueil">
+<div class="home-simple">
+  <div class="home-line"><span class="accent">$</span> ls portfolio/</div>
+  <div class="icon-row">
+    <div class="icon-tile"><a class="icon-link" href="#ap" aria-label="Ouvrir les activités professionnelles"><span>AP</span></a><div class="cap">./ap</div></div>
+    <div class="icon-tile"><a class="icon-link" href="#stages" aria-label="Ouvrir les stages"><span>STAGES</span></a><div class="cap">./stages</div></div>
+    <div class="icon-tile"><a class="icon-link" href="#veille" aria-label="Ouvrir la veille technologique"><span>VEILLE</span></a><div class="cap">./veille</div></div>
+    <div class="icon-tile"><a class="icon-link" href="#cv" aria-label="Ouvrir le CV"><span>CV</span></a><div class="cap">./cv</div></div>
+  </div>
+</div>
+
+<section class="presentation" id="presentation">
+  <div class="entry-card">
+    <div class="entry-label">PRÉSENTATION</div>
+    <div class="terminal">
+      <div class="terminal-bar"><span class="dot red"></span><span class="dot yellow"></span><span class="dot green"></span><span class="terminal-tab">presentation.log</span></div>
+      <div class="terminal-body">
+        <div><span class="prompt">$</span> <span class="cmd">cat presentation.log</span></div>
+
+        <div class="comment">Qui suis-je ?</div>
+        <div class="out">Je m'appelle Paul Compain, étudiant en BTS SIO option SISR (Solutions d'Infrastructure, Systèmes et Réseaux) au Campus Saint Charles Sainte Croix, au Mans. Titulaire d'un bac STMG obtenu en 2024, je me forme à l'administration des systèmes et des réseaux.</div>
+
+        <div class="pres-grid">
+          <div>
+            <div class="comment">Expérience</div>
+            <div class="out">Stages au sein du service informatique de Foussier : déploiement de postes, support aux utilisateurs et administration de l'infrastructure de l'entreprise.</div>
+          </div>
+          <div>
+            <div class="comment">Compétences</div>
+            <div class="out"><ul><li>Déploiement et support de postes</li><li>Active Directory, GLPI, MEDC</li><li>Rédaction de procédures</li><li>WordPress et environnement XAMPP</li></ul></div>
+          </div>
+          <div>
+            <div class="comment">Ce portfolio</div>
+            <div class="out">Vous y trouverez mes activités professionnelles, mon rapport de stage, ma veille technologique et mon CV.</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+</section>
+<section class="page" id="p-ap" data-page="ap" data-title="Portfolio — APs">
+<div class="page-header">
+  <a class="back-link" href="#accueil">← Accueil</a>
+  <h2>Activités professionnelles</h2>
+  <p class="sub">Six emplacements sont prévus pour les AP de l'année. Clique sur une AP pour l'agrandir et lire tous les détails.</p>
+</div>
+
+<div class="ap-grid">
+
+  <article class="ap-card terminal" id="ap01">
+    <div class="terminal-bar"><span class="dot red"></span><span class="dot yellow"></span><span class="dot green"></span><span class="terminal-tab">ap01.log</span></div>
+    <button class="ap-button" type="button" aria-expanded="false">
+      <span>
+        <span><span class="prompt">$</span> <span class="cmd">cat ap01.log</span></span>
+        <span class="ap-title">Déploiement et administration d'un site WordPress</span>
+      </span>
+      <span class="ap-short">Installation locale, administration et sauvegarde d'un site.</span>
+      <span class="ap-toggle" aria-hidden="true"></span>
+    </button>
+    <div class="ap-details">
+      <div class="ap-details-grid">
+        <div><div class="comment"># Résumé</div><div class="out">Installation d'un site WordPress sur un poste local avec XAMPP, import de la base de données, création de l'utilisateur d'administration, gestion des pages et des articles, puis sauvegarde de la base et des informations nécessaires.</div></div>
+        <div><div class="comment"># Compétences / outils</div><div class="out"><ul><li>XAMPP et environnement local</li><li>phpMyAdmin et base de données MySQL</li><li>WordPress / administration</li><li>Sauvegarde et organisation des fichiers</li></ul></div></div>
+      </div>
+      <div class="comment"># Document</div>
+      <div class="out"><a class="ap-full-link" href="documents/AP1-PAUL-COMPAIN-SIO1-2025.pdf" target="_blank" rel="noopener">Voir le document AP1 ↗</a></div>
+    </div>
+  </article>
+
+  <article class="ap-card terminal" id="ap02">
+    <div class="terminal-bar"><span class="dot red"></span><span class="dot yellow"></span><span class="dot green"></span><span class="terminal-tab">ap02.log</span></div>
+    <button class="ap-button" type="button" aria-expanded="false">
+      <span>
+        <span><span class="prompt">$</span> <span class="cmd">cat ap02.log</span></span>
+        <span class="ap-title">Comparaison de CMS</span>
+      </span>
+      <span class="ap-short">Étude comparative de solutions de gestion de contenu web.</span>
+      <span class="ap-toggle" aria-hidden="true"></span>
+    </button>
+    <div class="ap-details">
+      <div class="ap-details-grid">
+        <div><div class="comment"># Résumé</div><div class="out">AP consacrée à la comparaison de CMS afin d'identifier les caractéristiques et différences entre plusieurs solutions de création et de gestion de sites web.</div></div>
+        <div><div class="comment"># Ressource</div><div class="out">La source fournie pour cette AP est le site de comparaison CMS.</div></div>
+      </div>
+      <div class="out"><a class="ap-full-link" href="https://comparaison-cms.e-monsite.com/" target="_blank" rel="noopener">Vers le site LeBidule ↗</a></div>
+      <div class="comment"># Documents</div>
+      <div class="out" style="display:flex;flex-wrap:wrap;gap:10px">
+        <a class="ap-full-link" href="documents/AP2-etude-CMS.pdf" target="_blank" rel="noopener">Voir l'étude des CMS ↗</a>
+        <a class="ap-full-link" href="documents/AP2-tableau-comparatif-CMS.pdf" target="_blank" rel="noopener">Voir le tableau comparatif ↗</a>
+      </div>
+    </div>
+  </article>
+
+  <article class="ap-card terminal" id="ap03">
+    <div class="terminal-bar"><span class="dot red"></span><span class="dot yellow"></span><span class="dot green"></span><span class="terminal-tab">ap03.log</span></div>
+    <button class="ap-button" type="button" aria-expanded="false">
+      <span>
+        <span><span class="prompt">$</span> <span class="cmd">cat ap03.log</span></span>
+        <span class="ap-title">Conception d'une solution serveur</span>
+      </span>
+      <span class="ap-short">Étude matérielle et logicielle à partir d'un devis.</span>
+      <span class="ap-toggle" aria-hidden="true"></span>
+    </button>
+    <div class="ap-details">
+      <div class="ap-details-grid">
+        <div><div class="comment"># Résumé</div><div class="out">Étude d'une proposition de matériel informatique comprenant notamment du stockage, des composants serveur et des solutions logicielles. Le devis fourni mentionne Linux Ubuntu Server et Moodle.</div></div>
+        <div><div class="comment"># Éléments documentés</div><div class="out"><ul><li>Choix et chiffrage de matériel</li><li>Stockage NAS</li><li>Ubuntu Server</li><li>Moodle</li></ul></div></div>
+      </div>
+      <div class="comment"># Documents</div>
+      <div class="out" style="display:flex;flex-wrap:wrap;gap:10px">
+        <a class="ap-full-link" href="documents/AP3-Devis.pdf" target="_blank" rel="noopener">Voir le devis ↗</a>
+        <a class="ap-full-link" href="documents/AP3-Documentation-Administrateur.pdf" target="_blank" rel="noopener">Doc. administrateur ↗</a>
+        <a class="ap-full-link" href="documents/AP3-Documentation-enseignants.pdf" target="_blank" rel="noopener">Doc. enseignants ↗</a>
+        <a class="ap-full-link" href="documents/AP3-Documentation-apprenants.pdf" target="_blank" rel="noopener">Doc. apprenants ↗</a>
+        <a class="ap-full-link" href="documents/AP3-Documentation-LMS-Portfolio.pdf" target="_blank" rel="noopener">Doc. LMS / Portfolio ↗</a>
+      </div>
+    </div>
+  </article>
+
+  <article class="ap-card terminal" id="ap04">
+    <div class="terminal-bar"><span class="dot red"></span><span class="dot yellow"></span><span class="dot green"></span><span class="terminal-tab">ap04.log</span></div>
+    <button class="ap-button" type="button" aria-expanded="false">
+      <span>
+        <span><span class="prompt">$</span> <span class="cmd">cat ap04.log</span></span>
+        <span class="ap-title">Séparation des services Moodle et pare-feu</span>
+      </span>
+      <span class="ap-short">Répartition de Moodle sur deux serveurs et mise en place des règles pare-feu associées.</span>
+      <span class="ap-toggle" aria-hidden="true"></span>
+    </button>
+    <div class="ap-details">
+      <div class="ap-details-grid">
+        <div><div class="comment"># Résumé</div><div class="out">Séparation des services de la plateforme Moodle sur deux serveurs dédiés (serveur web et serveur de base de données), chacun placé dans sa propre zone réseau, puis mise en place des règles de pare-feu (pfSense) pour n'autoriser que les flux strictement nécessaires entre ces zones.</div></div>
+        <div><div class="comment"># Architecture</div><div class="out"><ul><li>OPT1 : serveur web (192.168.10.2)</li><li>OPT2 : serveur de base de données (192.168.20.2)</li><li>LAN : réseau d'administration</li><li>WAN : accès depuis internet</li></ul></div></div>
+      </div>
+      <div class="comment"># Règles pare-feu mises en place</div>
+      <div class="out"><ul>
+        <li><strong>WAN → OPT1 :</strong> seul le port 80 (HTTP) est autorisé vers le serveur web, redirigé par une règle de NAT (Port Forward) vers 192.168.10.2:80 ; tout le reste du trafic entrant est bloqué.</li>
+        <li><strong>OPT1 → OPT2 :</strong> le serveur web est autorisé à joindre le serveur de base de données sur le port 3306 (MySQL), ainsi qu'un hôte du LAN (192.168.2.199) sur le port 445 ; l'accès du serveur web vers le LAN est bloqué.</li>
+        <li><strong>OPT2 → LAN :</strong> le serveur de base de données est autorisé à joindre le même hôte du LAN sur le port 445 ; l'accès vers le LAN et vers OPT1 est bloqué.</li>
+        <li><strong>LAN :</strong> autorisé à sortir vers les autres réseaux pour l'administration, mais bloqué en direct vers OPT2 (le serveur de base de données n'est accessible que via le serveur web).</li>
+      </ul></div>
+      <div class="comment"># Objectif de sécurité</div>
+      <div class="out">Isoler le serveur de base de données du reste du réseau : il n'est joignable que depuis le serveur web, lui-même seul exposé sur internet via le port 80. Chaque zone (WAN, OPT1, OPT2, LAN) ne peut communiquer qu'avec ce qui lui est strictement nécessaire.</div>
+    </div>
+  </article>
+
+  <article class="ap-card terminal" id="ap05">
+    <div class="terminal-bar"><span class="dot red"></span><span class="dot yellow"></span><span class="dot green"></span><span class="terminal-tab">ap05.log</span></div>
+    <button class="ap-button" type="button" aria-expanded="false">
+      <span>
+        <span><span class="prompt">$</span> <span class="cmd">cat ap05.log</span></span>
+        <span class="ap-title">À compléter</span>
+      </span>
+      <span class="ap-short">Emplacement réservé pour la cinquième AP.</span>
+      <span class="ap-toggle" aria-hidden="true"></span>
+    </button>
+    <div class="ap-details">
+      <div class="comment"># AP05</div>
+      <div class="out">Cette AP pourra être remplie au cours de l'année avec le contexte, les objectifs, les réalisations, les outils et les compétences mobilisées.</div>
+    </div>
+  </article>
+
+  <article class="ap-card terminal" id="ap06">
+    <div class="terminal-bar"><span class="dot red"></span><span class="dot yellow"></span><span class="dot green"></span><span class="terminal-tab">ap06.log</span></div>
+    <button class="ap-button" type="button" aria-expanded="false">
+      <span>
+        <span><span class="prompt">$</span> <span class="cmd">cat ap06.log</span></span>
+        <span class="ap-title">À compléter</span>
+      </span>
+      <span class="ap-short">Emplacement réservé pour la sixième AP.</span>
+      <span class="ap-toggle" aria-hidden="true"></span>
+    </button>
+    <div class="ap-details">
+      <div class="comment"># AP06</div>
+      <div class="out">Cette AP pourra être remplie au cours de l'année avec le contexte, les objectifs, les réalisations, les outils et les compétences mobilisées.</div>
+    </div>
+  </article>
+
+</div>
+</section>
+<section class="page" id="p-stages" data-page="stages" data-title="Portfolio — Stage">
+<div class="page-header"><a class="back-link" href="#accueil">← Accueil</a><h2>Stage de première année</h2><p class="sub">Cinq semaines chez Foussier, dans le service informatique.</p></div><div class="content-block">
+<div class="entry-card"><div class="entry-label">RAPPORT DE STAGE</div><div class="terminal"><div class="terminal-bar"><span class="dot red"></span><span class="dot yellow"></span><span class="dot green"></span><span class="terminal-tab">stage_foussier.log</span></div><div class="terminal-body">
+<div><span class="prompt">$</span> <span class="cmd">cat stage_foussier.log</span></div>
+<div class="comment"># Contexte</div>
+<div class="out">Stage réalisé au sein du service informatique de Foussier, une entreprise qui gère plusieurs sites et agences. Il m'a permis de découvrir l'environnement de l'entreprise et de participer aux missions quotidiennes de l'équipe.</div>
+<div class="comment"># Déploiement de matériel</div>
+<div class="out">Configuration et déploiement de postes fixes et portables, d'écrans, de téléphones et de cartes SIM pour PC. Installation d'imprimantes et de copieurs (CUPS, serveur d'impression, mise à jour des pilotes), préparation de boîtiers 4G, remise de PC dans le domaine et création d'une clé Windows 11 avec Rufus.</div>
+<div class="comment"># Administration</div>
+<div class="out">Utilisation d'Active Directory (création d'utilisateurs, rangement des postes dans les bonnes UO, mots de passe, accès aux dossiers du serveur en lecture ou lecture/écriture), de MEDC pour la gestion des téléphones et de GLPI pour le suivi des actifs et des tickets. Déblocage de PC chiffrés avec BitLocker.</div>
+<div class="comment"># Support utilisateurs</div>
+<div class="out">Passage sur la boucle de support : réinitialisation de mots de passe Microsoft 365, mises à jour logicielles, problèmes de réseau, d'imprimantes et de Teams, avec TeamViewer et KeePass. Vérification des mails suspects signalés par les utilisateurs via AvantdeCliquer.</div>
+<div class="comment"># Remplacement des platines</div>
+<div class="out">Préparation de PC fixes pour remplacer les platines des magasins et transfert des données des utilisateurs. J'ai rédigé une procédure pour que chacun puisse sauvegarder ses données avant le changement de poste.</div>
+<div class="comment"># Logistique et stock</div>
+<div class="out">Préparation et envoi quotidien des colis vers les agences, réception du matériel, rangement du stock et déplacement au magasin du Mans pour intervenir sur des imprimantes.</div>
+<div class="comment"># Documentation</div>
+<div class="out"><a class="ap-full-link" href="documents/Procedure-transfert-donnees.pdf" target="_blank" rel="noopener">Ouvrir la procédure de transfert des données ↗</a></div>
+</div></div></div>
+</div>
+</section>
+<section class="page" id="p-veille" data-page="veille" data-title="Portfolio — Veille technologique">
+<div class="page-header"><a class="back-link" href="#accueil">← Accueil</a><h2>Veille technologique</h2><p class="sub">Suivi de sujets liés aux systèmes, réseaux et à la cybersécurité.</p></div><div class="content-block">
+<div class="entry-card"><div class="entry-label">CYBERSÉCURITÉ</div><div class="terminal"><div class="terminal-bar"><span class="dot red"></span><span class="dot yellow"></span><span class="dot green"></span><span class="terminal-tab">veille_cybersec.log</span></div><div class="terminal-body"><div><span class="prompt">$</span> <span class="cmd">tail -f veille_cybersec.log</span></div><div class="comment"># Vulnérabilités et correctifs</div><div class="out">Suivi des CVE critiques touchant les infrastructures serveurs et les équipements réseau.</div></div></div></div>
+<div class="entry-card"><div class="entry-label">INFRASTRUCTURE</div><div class="terminal"><div class="terminal-bar"><span class="dot red"></span><span class="dot yellow"></span><span class="dot green"></span><span class="terminal-tab">veille_infra.log</span></div><div class="terminal-body"><div><span class="prompt">$</span> <span class="cmd">tail -f veille_infra.log</span></div><div class="comment"># Virtualisation et conteneurisation</div><div class="out">Évolutions des hyperviseurs et adoption progressive des conteneurs.</div></div></div></div>
+<div class="entry-card"><div class="entry-label">RÉSEAU</div><div class="terminal"><div class="terminal-bar"><span class="dot red"></span><span class="dot yellow"></span><span class="dot green"></span><span class="terminal-tab">veille_reseau.log</span></div><div class="terminal-body"><div><span class="prompt">$</span> <span class="cmd">tail -f veille_reseau.log</span></div><div class="comment"># Évolution des protocoles</div><div class="out">Nouveautés autour des protocoles réseau et des pratiques de segmentation.</div></div></div></div>
+</div>
+</section>
+<section class="page" id="p-cv" data-page="cv" data-title="Portfolio — CV">
+<div class="page-header"><a class="back-link" href="#accueil">← Accueil</a><h2>Curriculum Vitae</h2><p class="sub">Formation, expériences professionnelles et compétences techniques extraites du CV fourni.</p></div><div class="content-block"><div class="cv-grid">
+<div class="cv-col"><h3>Formation</h3><div class="cv-item"><div class="role">BTS SIO — Réseau SISR</div><div class="when">2025 — 2027 · en cours</div><p>Campus Saint Charles Sainte Croix — Le Mans</p></div><div class="cv-item"><div class="role">Baccalauréat STMG</div><div class="when">2021 — 2024</div><p>Lycée Saint Charles Sainte Croix — Le Mans</p></div><h3 style="margin-top:36px">Compétences informatiques</h3><div class="skill-line"><span>Windows Server</span><span>Systèmes</span></div><div class="skill-line"><span>Linux</span><span>Systèmes</span></div><div class="skill-line"><span>Active Directory</span><span>Systèmes</span></div><div class="skill-line"><span>Migrations Windows 11</span><span>Systèmes</span></div><div class="skill-line"><span>Virtualisation</span><span>Machines virtuelles</span></div><div class="skill-line"><span>GLPI / MEDC</span><span>Parc & supervision</span></div><div class="skill-line"><span>Gestion d'impression</span><span>Parc informatique</span></div><div class="skill-line"><span>Inventaire & tri de matériel</span><span>Parc informatique</span></div><div class="skill-line"><span>Gestion & suivi des sauvegardes</span><span>Sauvegarde</span></div><div class="skill-line"><span>Déploiement PC / imprimantes / téléphones</span><span>Support & maintenance</span></div><div class="skill-line"><span>Remplacement de platine</span><span>Support & maintenance</span></div><div class="skill-line"><span>Sensibilisation à la cybersécurité</span><span>Sécurité</span></div><div class="skill-line"><span>GitHub</span><span>Usage personnel</span></div></div>
+<div class="cv-col"><h3>Expériences</h3><div class="cv-item"><div class="role">FOUSSIER — Stage 1ère année BTS SIO/SISR</div><div class="when">2025 — 2026</div><p>Configuration et déploiement de matériels informatiques, gestion et référencement via GLPI, MEDC et Active Directory, gestion d'impression, migrations Windows 11, virtualisation, suivi des sauvegardes, support et maintenance.</p></div><div class="cv-item"><div class="role">Biscuiterie Saint Guénolé — Job d'été</div><div class="when">Étés 2024 à 2026</div><p>Missions polyvalentes en production, vente et logistique dans une biscuiterie familiale.</p></div><div class="cv-item"><div class="role">Outils Des Pros — Stage</div><div class="when">2023</div><p>Chef de projet marketing : création de contenus publicitaires (photos, vidéos, publications Instagram et YouTube).</p></div><h3 style="margin-top:36px">Objectif</h3><div class="cv-item"><p>Intégrer une entreprise pour un stage en réseaux dans le cadre de la deuxième année de BTS et compléter ma formation pour développer mon expertise.</p></div><h3 style="margin-top:36px">Contact</h3><div class="cv-item"><p>paul.compain-pasquier@stcharles-stecroix.org<br>07 68 94 18 38<br>Mulsanne 72230<br>Permis B + véhicule</p></div><div class="cv-actions"><a class="btn" href="mailto:paul.compain-pasquier@stcharles-stecroix.org">Écrire un email</a><a class="btn" href="documents/CV-Paul-COMPAIN.pdf" target="_blank" rel="noopener">Voir le CV PDF</a></div></div>
+</div></div>
+</section>
+
+</main>
+<footer><span>Portfolio — BTS SIO SISR</span><span id="year-tag"></span></footer>
+<script src="script.js"></script>
+</body>
+</html>
